@@ -1,4 +1,4 @@
-# Chat Program
+# From LEGACY github account: Chat Program
 Files that are included for this program:
 * Makefile: This is used to compile the .cc file and create a executable file.
 * chat.cc: This is the code to the chat program
